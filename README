@@ -1,0 +1,13 @@
+For bug reports and support requests use the Issues queue on GitHub http://github.com/rj-steinert/views_gallery
+
+Built from Jeff Eaton of Lullabot's Views Gallery Feature: http://www.lullabot.com/articles/photo-galleries-views-attach
+
+Due to either a bug in Features at the time or an oversight, the necessary View was not included in the feature (I think he may have confused a non relevant context setting for the view).
+
+*Note that Views cache can cause you to not see a photo after uploading it.
+
+*Enable all of the module dependencies before enabling the feature. Still ironing this out.
+
+*Note there also is no CSS Injector integration for Features. That means the CSS Injector magic that Jeff uses in his tutorial will have to be manually inserted by you if you want it. He has the CSS needed in the the file views-gallery-exports.zip which is attached to his tutorial.
+
+Maintainer: R.J. Steinert (rjstatic) http://rjsteinert.com
